@@ -1,0 +1,157 @@
+# List of game creation tools
+
+- 001 Game Creator
+- 3D Gamemaker
+- ActionScript
+- Action Game Maker
+- Adventure Creator
+- Adventure Game Maker
+- Adventure Game Studio
+- Alan
+- Allegro
+- App Game Kit
+- Arcade Game Studio
+- Ares
+- Assembly
+- awe6
+- BabylonJS
+- BASIC
+- Batch
+- Blender
+- Blitz
+- BlitzMax
+- BlitzPlus
+- Blitz3D
+- Build
+- C
+- C++
+- C#
+- C4 Engine
+- Clickteam Fusion
+- Cocos2d
+- Construct 2
+- Construct Classic
+- CopperCube
+- Corona SDK
+- CraftStudio
+- CryENGINE
+- Crystal Space
+- DarkBASIC
+- DarkBASIC Professional
+- Delphi
+- delta3d
+- dim3
+- DX Studio
+- Esenthel Engine
+- FIFE
+- Flare
+- Flash
+- FlashPunk
+- flickgame
+- Flixel
+- Flowlab
+- FPS Creator Classic
+- FreeOrion
+- Game Editor
+- GameBuilder Studio
+- GameGuru
+- GameMaker
+- GameMaker: Studio
+- GamePlay
+- GameSalad
+- Games Factory 2
+- Gamvas
+- GDevelop
+- Godot Engine
+- Haxe
+- HaxeFlixel
+- HTML+Javascript
+- HTML5
+- ika
+- IG Maker
+- Inform
+- IrrRPG Builder
+- Java
+- JavaScript
+- jMonkeyEngine
+- Kodu
+- Leadwerks Game Engine
+- libGDX
+- Lobster
+- Loom
+- LÖVE
+- Lua
+- Maratis
+- Marmalade
+- Moai
+- Monkey X
+- Minko
+- MonoGame
+- M.U.G.E.N.
+- Multimedia Fusion
+- NeoAxis Engine
+- NScripter
+- Objective-C
+- ONScripter
+- Orx
+- Oxygine
+- Panda3D
+- Paradox
+- Pascal
+- Phaser
+- PICO-8
+- PlayCanvas
+- plingpling
+- Polycode
+- Project Anarchy
+- PuzzleScript
+- Pygame
+- Pyglet
+- Python
+- Python-Ogre
+- Quest
+- Reach3dx
+- Ren'Py
+- Retribution Engine
+- RPG Maker 2000
+- RPG Maker 2003
+- RPG Maker VX Ace
+- RPG Maker XP
+- RTS Creator
+- Ruby
+- Scratch
+- Scroller Game Creator
+- sge2d
+- ShiVa
+- Shoot ‘Em Up Kit
+- Silent Walk FPS Creator
+- Silent Walk: RENAISSANCE
+- Silverlight
+- Source
+- Source 2
+- Sphere
+- Spring Engine
+- Squiffy
+- Starling
+- Stencyl
+- Superpowers
+- TADS
+- Tesseract Engine
+- tinychoice
+- Torque 2D
+- Torque 3D
+- Tululoo Game Maker
+- Turbulenz
+- Twine
+- TypeScript
+- Unity
+- Unreal Engine
+- Urho3D
+- Vanda Engine
+- VERGE
+- Visionaire Studio
+- Visual Basic
+- Wintermute Engine
+- XNA Game Studio
+- ZGameEditor
+- OTHER
