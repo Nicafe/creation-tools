@@ -127,6 +127,7 @@
 - Silent Walk FPS Creator
 - Silent Walk: RENAISSANCE
 - Silverlight
+- Snap!
 - Source
 - Source 2
 - Sphere
