@@ -1,7 +1,9 @@
 # List of game creation tools
 
-- 001 Game Creator
+- 001 Game Creator / Engine 001
 - 3D Gamemaker
+- 3D Game Builder
+- 3D Rad
 - ActionScript
 - Action Game Maker
 - Adventure Creator
@@ -14,7 +16,9 @@
 - Ares
 - Assembly
 - awe6
+- Axis Game Factory
 - BabylonJS
+- Backbone
 - BASIC
 - Batch
 - Blender
@@ -27,6 +31,7 @@
 - C++
 - C#
 - C4 Engine
+- Cafu Engine
 - Clickteam Fusion
 - Cocos2d
 - Construct 2
@@ -38,11 +43,13 @@
 - Crystal Space
 - DarkBASIC
 - DarkBASIC Professional
+- Dark Flow
 - Delphi
 - delta3d
 - dim3
 - DX Studio
 - Esenthel Engine
+- Euphoria
 - FIFE
 - Flare
 - Flash
@@ -59,10 +66,13 @@
 - GameMaker: Studio
 - GamePlay
 - GameSalad
+- Gamestudio/A8
 - Games Factory 2
 - Gamvas
 - GDevelop
+- Gemix Studio
 - Godot Engine
+- Haaf's Game Engine
 - Haxe
 - HaxeFlixel
 - HTML+Javascript
@@ -70,11 +80,15 @@
 - ika
 - IG Maker
 - Inform
+- InterAx
 - IrrRPG Builder
 - Java
 - JavaScript
 - jMonkeyEngine
+- JumpCraft
 - Kodu
+- Klick & Play
+- kooltool
 - Leadwerks Game Engine
 - libGDX
 - Lobster
@@ -83,13 +97,18 @@
 - Lua
 - Maratis
 - Marmalade
+- MEGAKERMA Game Maker
 - Moai
 - Monkey X
 - Minko
 - MonoGame
 - M.U.G.E.N.
 - Multimedia Fusion
+- Murl Engine
+-NaaLaa
 - NeoAxis Engine
+- Novashell
+- Novelty
 - NScripter
 - Objective-C
 - ONScripter
@@ -100,9 +119,12 @@
 - Pascal
 - Phaser
 - PICO-8
+- Platform Game Engine / SMBX
+- Platinum Arts Sandbox Game Maker
 - PlayCanvas
 - plingpling
 - Polycode
+- Processing
 - Project Anarchy
 - PuzzleScript
 - Pygame
@@ -111,22 +133,28 @@
 - Python-Ogre
 - Quest
 - Reach3dx
+- Reality Factory
 - Ren'Py
 - Retribution Engine
+- RPG Builder 3D
 - RPG Maker 2000
 - RPG Maker 2003
 - RPG Maker VX Ace
 - RPG Maker XP
+- RPG Toolkit
 - RTS Creator
 - Ruby
 - Scratch
 - Scroller Game Creator
+- Scrolling Game Development Kit
+- ScummVM
 - sge2d
 - ShiVa
 - Shoot ‘Em Up Kit
 - Silent Walk FPS Creator
 - Silent Walk: RENAISSANCE
 - Silverlight
+- SLUDGE
 - Snap!
 - Source
 - Source 2
@@ -136,6 +164,7 @@
 - Starling
 - Stencyl
 - Superpowers
+- T-Engine4
 - TADS
 - Tesseract Engine
 - tinychoice
@@ -149,10 +178,12 @@
 - Unreal Engine
 - Urho3D
 - Vanda Engine
+- VB.NET
 - VERGE
 - Visionaire Studio
 - Visual Basic
 - Wintermute Engine
 - XNA Game Studio
+- zDoom
 - ZGameEditor
 - OTHER
