@@ -15,12 +15,15 @@
 - Arcade Game Studio
 - Ares
 - Assembly
+- Autodesk Stingray
 - awe6
 - Axis Game Factory
 - BabylonJS
 - Backbone
 - BASIC
 - Batch
+- BigWorld
+- Bitsquid
 - Blender
 - Blitz
 - BlitzMax
@@ -73,8 +76,10 @@
 - Gemix Studio
 - Godot Engine
 - Haaf's Game Engine
+- Havok Vision Engine
 - Haxe
 - HaxeFlixel
+- HeroEngine
 - HTML+Javascript
 - HTML5
 - ika
@@ -139,6 +144,7 @@
 - RPG Builder 3D
 - RPG Maker 2000
 - RPG Maker 2003
+- RPG Maker MV
 - RPG Maker VX Ace
 - RPG Maker XP
 - RPG Toolkit
